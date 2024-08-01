@@ -1,0 +1,33 @@
+{
+    "05987a51-eb56-444a-8343-943e138eda62": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "2D Shooter",
+        "thumbnail": "1aa867a1-0cae-dd3a-2f78-93a53677fec6",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "1aa867a1-0cae-dd3a-2f78-93a53677fec6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/2D_Shooter_Thumb.tex.nasset"
+    },
+    "1ce73e87-54ae-f8aa-cdcb-65d933aaeae8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Top Down.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "50aab765-42e6-4210-a06d-714ed45c7378": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/2D Shooter.scene.nasset"
+    },
+    "d2f13574-bca2-0782-7b4f-f5b8da621553": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "guid": "d2f13574-bca2-0782-7b4f-f5b8da621553"
+}
